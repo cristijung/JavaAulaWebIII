@@ -5,7 +5,7 @@ ele/ela precisa saber. Os comentários devem incluir, pelo menos:
 ------------------------------------------------------------------------
 
 TÍTULO DO PROJETO: Aula 3
-OBJETIVO DO PROJETO: Trabalhar com Java - Classes e Métodos
+OBJETIVO DO PROJETO: Trabalhar com Java - Classes, Métodos, Operadpores Aritméticos
 VERSÃO ou DATA: 30/08/2021
 COMO INICIAR O PROJETO:
 AUTORES: Cristina Jung
