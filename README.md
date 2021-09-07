@@ -83,7 +83,8 @@ pessoa execute  a ação, ela precisa de mais informações além da própria a�
 A passagem por parâmetro, nada mais é, do que o argumento do método, ou seja, o que deverá ser informado ao método para que o mesmo seja executado.
 O exemplo acima é um método sem retorno e com argumento, temos dois parâmetros: direção e passos.
 
-
+### Link para configurar seu Vs Code para Java:
+https://code.visualstudio.com/docs/java/java-tutorial
 
 
 
